@@ -1,4 +1,10 @@
-### Hi there 👋
+# A  **bold** new start!
+
+Welcome to my profile! Glad to have you along as I explore possibilities in programming 😆
+
+I'm a full stack developer trying to code everything I can get my hands on. Stay tuned to see my skills in action! 😎
+
+
 
 <!--
 **matt-arofin/matt-arofin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
