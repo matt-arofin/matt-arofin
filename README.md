@@ -4,12 +4,17 @@ Welcome to my profile! Glad to have you along as I explore possibilities in prog
 
 I'm a full stack developer trying to code everything I can get my hands on. Stay tuned to see my skills in action! 😎
 
-~ Currently working on: [A Personal Porfolio Site](https://github.com/matt-arofin/Portfolio) 🌱
-~ Currently learning: Amazon Web Services, Rust, GoLang
-~ Open to collaborate on: Back-end Infrastructure Projects (API schema, server configuration, databases, etc), open-source and non-profit projects
-~ Looking for help with: cloud-native applications, mobile applications
-~ How to reach me: [Twitter](), [LinkedIn]()
-~ Pronouns: He/Him
+~ Currently working on 🌱: [A Personal Porfolio Site](https://github.com/matt-arofin/Portfolio) 
+
+~ Currently learning 📚: Amazon Web Services, Rust, GoLang 
+
+~ Open to collaborate on 👨🏾‍💻: Back-end Infrastructure Projects (API schema, server configuration, databases, etc), open-source and non-profit projects
+
+~ Looking for help with 💡: cloud-native applications, mobile applications
+
+~ How to reach me 📬: [Email](matt.arofin@gmail.com), [Twitter](https://twitter.com/Kur0taku), [LinkedIn](https://www.linkedin.com/in/matthew-arofin-8b41a7115/) 
+
+~ Pronouns 🚻: He/Him
 
 <!--
 **matt-arofin/matt-arofin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
