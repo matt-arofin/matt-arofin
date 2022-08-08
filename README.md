@@ -25,7 +25,9 @@ I'm a full stack developer trying to code everything I can get my hands on. Stay
 
 ## Skills
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matt-arofin&show_icons=true&locale=en&layout=compact" alt="matt-arofin" /></p>
+<p><img align="center" width='500px' src="https://wakatime.com/share/@dc746526-be58-4f72-b381-7d2fe0e56de4/ab464102-a53c-47af-8e14-fcd97e11b4c2.svg" /></p>
+
+<figure><embed src="https://wakatime.com/share/@dc746526-be58-4f72-b381-7d2fe0e56de4/bd75b1cc-fd13-4e84-be0d-174f043b6643.svg"></embed></figure>
 
 ~ Programming Languages 👨🏾‍💻: Javascript, Python, Swift
 
