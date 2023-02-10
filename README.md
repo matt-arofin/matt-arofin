@@ -15,7 +15,7 @@ I'm a full stack developer trying to code everything I can get my hands on. Stay
 ~ How to reach me 📬: [Email](matt.arofin@gmail.com)
 
 <p align="left">
-<a href="https://twitter.com/kur0taku" target="blank"><img src="https://img.shields.io/twitter/follow/kur0taku?logo=twitter&style=for-the-badge" alt="kur0taku" /></a>
+<a href="https://twitter.com/0lamatt" target="blank"><img src="https://img.shields.io/twitter/follow/kur0taku?logo=twitter&style=for-the-badge" alt="kur0taku" /></a>
 <a href="https://linkedin.com/in/matthew-arofin-8b41a7115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matthew arofin" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/matt_arofin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="matt_arofin" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kurotaku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kurotaku" height="30" width="40" /></a>
